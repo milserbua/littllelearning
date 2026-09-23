@@ -21,7 +21,7 @@ const siteData = {
         },
         {
             icon: "3",
-            title: "MINT/MINT-Motivation",
+            title: "MINT-Motivation",
             text: "Das Projekt fördert frühzeitig Interesse an Technik, Naturwissenschaften und MINT-Themen."
         }
     ],
