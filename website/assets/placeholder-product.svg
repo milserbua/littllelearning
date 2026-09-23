@@ -1,0 +1,12 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Platzhaltergrafik für Produktbild</title>
+  <desc id="desc">Abstrakte Vektorgrafik als lizenzfreie Platzhalterdarstellung eines Elektronik-Baukastens.</desc>
+  <rect width="640" height="360" rx="18" fill="#E8F0FF"/>
+  <rect x="70" y="70" width="170" height="110" rx="10" fill="#1D4ED8"/>
+  <rect x="260" y="70" width="120" height="110" rx="10" fill="#F59E0B"/>
+  <rect x="400" y="70" width="170" height="110" rx="10" fill="#22C55E"/>
+  <rect x="100" y="220" width="440" height="70" rx="12" fill="#10213F"/>
+  <circle cx="146" cy="255" r="12" fill="#F7FAFC"/>
+  <circle cx="196" cy="255" r="12" fill="#F7FAFC"/>
+  <circle cx="246" cy="255" r="12" fill="#F7FAFC"/>
+</svg>
